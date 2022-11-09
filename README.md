@@ -1,7 +1,7 @@
 # CMPG_323_Project_5_-_34729100
 
 # Stretch Tasks
-I downloaded a .json theme and applied it to my visualizations.
+I downloaded a .json theme and applied it to my visualizations.</br>
 I used Q&A to enhance my visualizations and make the more interactive.
 
 # References
