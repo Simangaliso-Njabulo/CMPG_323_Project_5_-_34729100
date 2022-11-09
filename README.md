@@ -1,7 +1,8 @@
 # CMPG_323_Project_5_-_34729100
 
-# Strech Tasks
-I downloaded a .json theme and applied it to my visualizations.
+# Stretch Tasks
+I downloaded a .json theme and applied it to my visualizations.</br>
+I used Q&A to enhance my visualizations and make the more interactive.
 
 # References
 <ul>
@@ -13,8 +14,5 @@ I downloaded a .json theme and applied it to my visualizations.
 
 <li><p><a href="https://youtu.be/gU537vrvxTo">How to use first row header in power query in power bi desktop | Power Query Tutorials</a></p></li>
 <li><p><a href="https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery">Power BI Themes Gallery</a></p></li>
-
- 
-
 </ul>
  
