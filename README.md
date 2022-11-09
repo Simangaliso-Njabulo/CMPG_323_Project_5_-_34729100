@@ -3,6 +3,7 @@
 # Stretch Tasks
 I downloaded a .json theme and applied it to my visualizations.</br>
 I used Q&A to enhance my visualizations and make the more interactive.
+I published my project, unfortunately I connot share it because it requires me to upgrade to Power BI Pro.
 
 # References
 <ul>
