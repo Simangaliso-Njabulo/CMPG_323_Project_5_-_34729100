@@ -9,6 +9,8 @@ I downloaded a .json theme and applied it to my visualizations.</br>
 </br>
 I used Q&A to enhance my visualizations and make the more interactive.</br>
 </br>
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_5_-_34729100/blob/main/Pictures/Q&A.png" width="1024" height="572" alt="Theme"></br>
+</br>
 I published my project.
 </br>
 </br>
