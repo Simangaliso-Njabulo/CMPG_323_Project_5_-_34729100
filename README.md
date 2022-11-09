@@ -1,5 +1,8 @@
 # CMPG_323_Project_5_-_34729100
 
+# Strech Tasks
+I downloaded a .json theme and applied it to my visualizations.
+
 # References
 <ul>
 <li><p><a href="https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/">Introduction to Power BI</a></p></li>
@@ -9,6 +12,9 @@
 <li><p><a href="https://youtu.be/9-zfKmF4lj4">Power BI Tutorial (29/50) - How to make Live Connection (Connect Live) in Power BI</a></p></li>
 
 <li><p><a href="https://youtu.be/gU537vrvxTo">How to use first row header in power query in power bi desktop | Power Query Tutorials</a></p></li>
+<li><p><a href="https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery">Power BI Themes Gallery</a></p></li>
+
+ 
 
 </ul>
  
