@@ -1,9 +1,20 @@
 # CMPG_323_Project_5_-_34729100
+# How to use my visualizations
+Step1: Click on this link - https://app.powerbi.com/links/N-zHTT0tux?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare </br>
 
 # Stretch Tasks
 I downloaded a .json theme and applied it to my visualizations.</br>
+</br>
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_5_-_34729100/blob/main/Pictures/Theme.png" width="1024" height="572" alt="Theme"></br>
+</br>
 I used Q&A to enhance my visualizations and make the more interactive.</br>
-I published my project, unfortunately I connot share it because it requires me to upgrade to Power BI Pro.
+</br>
+I published my project.
+</br>
+</br>
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_5_-_34729100/blob/main/Pictures/Publish_1.png" width="1024" height="572" alt="Proof of publication"></br>
+</br>
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_5_-_34729100/blob/main/Pictures/Publish_2.png" width="1024" height="572" alt="Proof of publication"></br>
 
 # References
 <ul>
