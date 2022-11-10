@@ -1,6 +1,8 @@
 # CMPG_323_Project_5_-_34729100
 # How to use my visualizations
 Step1: Click on this link - https://app.powerbi.com/links/N-zHTT0tux?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare </br>
+Step2: View High-Level Metrics. Click on the other headings on the tabs to view other visualisation. </br>
+Step3: To use the Q&A just click one of the suggested questions or type a question that is relevant to analyzing the data. </br>
 
 # Stretch Tasks
 I downloaded a .json theme and applied it to my visualizations.</br>
