@@ -38,5 +38,20 @@ I published my project.
 <li><p><a href="https://youtu.be/EolSBRkNpbk">9 things to know before getting into Power BI (Or, really anything)</a></p></li>
 <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
  
+ <li><p><a href="https://www.stitchdata.com/resources/7-reasons-power-bi/">7 reasons to use Microsoft Power BI</a></p></li>
+ <li><p><a href="https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards">Introduction to dashboards for Power BI designers</a></p></li>
+ <li><p><a href="https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboard-create">Create a Power BI dashboard from a report</a></p></li>
+ <li><p><a href="https://youtu.be/c7LrqSxjJQQ">How to Use Microsoft Power BI | Create Your First Dashboard Now (Practice Files included)</a></p></li>
+ <li><p><a href="https://youtu.be/mYpOSfqgTvY">10 Power BI Tips for Better Dashboards | Are you using these in your Power BI reports?</a></p></li>
+ 
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ 
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ 
 </ul>
  
