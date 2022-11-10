@@ -28,5 +28,10 @@ I published my project.
 
 <li><p><a href="https://youtu.be/gU537vrvxTo">How to use first row header in power query in power bi desktop | Power Query Tutorials</a></p></li>
 <li><p><a href="https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery">Power BI Themes Gallery</a></p></li>
+<li><p><a href="https://youtu.be/TmhQCQr_DCA">How to use Microsoft Power BI - Tutorial for Beginners</a></p></li>
+<li><p><a href="https://youtu.be/yKTSLffVGbk">What is Power BI?</a></p></li>
+<li><p><a href="https://youtu.be/9tF1IrfLflg">Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners</a></p></li>
+
+
 </ul>
  
