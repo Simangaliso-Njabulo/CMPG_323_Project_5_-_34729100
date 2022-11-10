@@ -30,8 +30,13 @@ I published my project.
 <li><p><a href="https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery">Power BI Themes Gallery</a></p></li>
 <li><p><a href="https://youtu.be/TmhQCQr_DCA">How to use Microsoft Power BI - Tutorial for Beginners</a></p></li>
 <li><p><a href="https://youtu.be/yKTSLffVGbk">What is Power BI?</a></p></li>
-<li><p><a href="https://youtu.be/9tF1IrfLflg">Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners</a></p></li>
+<li><p><a href="https://youtu.be/9tF1IrfLflg">Your first 10 minutes of Power BI - A quick getting started tutorial for beginners</a></p></li>
 
-
+<li><p><a href="https://youtu.be/GpP0EbSMRpg">How to Create these Useful Power BI Visuals we Wish Excel had</a></p></li>
+<li><p><a href="https://youtu.be/B_bAKrXAUh0">Create your first Power BI report (2021)</a></p></li>
+<li><p><a href="https://youtu.be/TnyRsO4NJPc">Handling MULTIPLE fact tables in Power BI</a></p></li>
+<li><p><a href="https://youtu.be/EolSBRkNpbk">9 things to know before getting into Power BI (Or, really anything)</a></p></li>
+<li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ 
 </ul>
  
