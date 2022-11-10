@@ -44,14 +44,14 @@ I published my project.
  <li><p><a href="https://youtu.be/c7LrqSxjJQQ">How to Use Microsoft Power BI | Create Your First Dashboard Now (Practice Files included)</a></p></li>
  <li><p><a href="https://youtu.be/mYpOSfqgTvY">10 Power BI Tips for Better Dashboards | Are you using these in your Power BI reports?</a></p></li>
  
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/6lBqYInBldk?list=RDCMUCJtUOos_MwJa_Ewii-R3cJA">How Power Query Will Change the Way You Use Excel</a></p></li>
+ <li><p><a href="https://youtu.be/40xO1MD_CCs?list=RDCMUCJtUOos_MwJa_Ewii-R3cJA">DAX CALCULATE Function Made Easy to Understand (just one word)</a></p></li>
+ <li><p><a href="https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures">Create measures for data analysis in Power BI Desktop</a></p></li>
+ <li><p><a href="https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures">Tutorial: Create your own measures in Power BI Desktop</a></p></li>
+ <li><p><a href="https://youtu.be/ePPi1LLX0sA">Measures vs. calculated columns in DAX and Power BI</a></p></li>
  
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
- <li><p><a href="https://youtu.be/AGrl-H87pRU">Power BI Tutorial From Beginner to Pro</a></p></li>
+ <li><p><a href="https://youtu.be/YtIdcCYnZ9w">Computing totals by summing visible values in DAX</a></p></li>
+ <li><p><a href="https://youtu.be/pZtEvNPL74E">Measures vs Calculated Columns in Power BI | Power BI tutorial for beginners</a></p></li>
  
 </ul>
  
